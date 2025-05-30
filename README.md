@@ -2,7 +2,8 @@
 ##  What this project will do:
 
 This project sets up a basic student database using PostgreSQL. It helps manage student records, retrieve specific information, and perform updates and queries easily.
-🛠️ What we are doing:
+
+What we are doing:
 
     Creating a PostgreSQL database and student table.
 
@@ -12,7 +13,7 @@ This project sets up a basic student database using PostgreSQL. It helps manage 
 
     Performing operations like group-by, aggregation, and renaming tables.
 
-✅ Features:
+Features:
 
     Store complete student profiles (name, contact, GPA, grade, etc.)
 
